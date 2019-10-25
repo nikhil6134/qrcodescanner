@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WebCam_Capture.dll
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
